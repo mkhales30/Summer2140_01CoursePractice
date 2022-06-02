@@ -1,5 +1,5 @@
 /**
- * class name: SkippingDemo
+ * class name: ChineseZodiac2Monauver
  * author: Monauver Rahman
  * date: June 02, 2022
  * version 1.0
