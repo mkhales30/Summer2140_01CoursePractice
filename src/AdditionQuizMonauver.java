@@ -6,7 +6,7 @@
  * description: this program will check addition answers
  */
 
-public class AdditionQuiz {
+public class AdditionQuizMonauver {
     public static void main(String[] args)
     {
 
