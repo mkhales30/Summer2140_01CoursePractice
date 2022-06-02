@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class ChineseZodiac2 {
+public class ChineseZodiac2Monauver {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
         System.out.print("What is the year? ");
